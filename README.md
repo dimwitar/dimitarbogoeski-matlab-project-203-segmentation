@@ -19,12 +19,12 @@ We applied automation using the **Point Tracker (KLT)** algorithm to reduce manu
 
 # How to run section
 
-# Prerequisites:
+## Prerequisites:
 - MATLAB R2023b or later
 - Computer Vision Toolbox
 - (Optional) Deep Learning Toolbox
 
-# Instructions:
+## Instructions:
 1. Clone this repository
 2. Open MATLAB
 3. Set the current folder to the repo root
@@ -33,7 +33,7 @@ We applied automation using the **Point Tracker (KLT)** algorithm to reduce manu
    run_pipeline
 
 # Demo
-
+![Labeling Demo](demo.png)
   
 # Reference
 Add reference papers, data, or supporting material that has been used, if any.
