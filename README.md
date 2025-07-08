@@ -3,7 +3,7 @@ This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
 
-[Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
+[Program link](https://github.com/dimwitar/dimitarbogoeski-matlab-project-203-segmentation)
 
 [Project description link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video)
 
