@@ -17,7 +17,7 @@ We applied automation using the **Point Tracker (KLT)** algorithm to reduce manu
 - Semi-automated bounding box tracking across frames
 - Exported dataset for use in deep learning workflows
 
-# How to run section
+# How to run
 
 ## Prerequisites:
 - MATLAB R2023b or later
@@ -35,5 +35,17 @@ We applied automation using the **Point Tracker (KLT)** algorithm to reduce manu
 # Demo
 ![Labeling Demo](demo.png)
   
-# Reference
-Add reference papers, data, or supporting material that has been used, if any.
+# References
+
+- [Video Labeler App – MATLAB Documentation](https://www.mathworks.com/help/vision/ref/videolabeler-app.html)  
+  Used for manually labeling video frames and applying automation algorithms.
+
+- [Using Ground Truth for Object Detection – MATLAB Video Demo](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-using-ground-truth-for-object-detection-part-1-1539772871504.html)  
+  Helpful example for working with `groundTruth` objects and exporting labels.
+
+- Yao, Rui, et al. (2020). *Video Object Segmentation and Tracking: A Survey*. ACM Transactions on Intelligent Systems and Technology.  
+  [https://dl.acm.org/doi/abs/10.1145/3386252](https://dl.acm.org/doi/abs/10.1145/3386252)  
+  Provided background on video object segmentation techniques.
+
+- [MathWorks GitHub Challenge Repository](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)  
+  Official project template and instructions.
